@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\TCC\CodBase\x64\Debug\PCTF.exe
+C:\Users\Lucas\Documents\TCC\CodBase\x64\Debug\PCTF.pdb
+C:\Users\Lucas\Documents\ParangoleDoGeraldo\CodBase\x64\Debug\PCTF.exe
+C:\Users\Lucas\Documents\ParangoleDoGeraldo\CodBase\x64\Debug\PCTF.pdb
+C:\Users\Lucas\Documents\UFES\ALNS_PROJETO\CodBase\x64\Debug\PCTF.exe
+C:\Users\L\Documents\ALNS_PROJETO\CodBase\x64\Debug\PCTF.exe
+C:\Users\L\Documents\UFES\ALNS_PROJETO\CodBase\x64\Debug\PCTF.exe

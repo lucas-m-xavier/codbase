@@ -1,0 +1,16 @@
+﻿  pctf.cpp
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(47,19): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(110,18): warning C4473: 'fprintf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(110,18): message : espaços reservados e seus parâmetros esperam 4 argumentos variadic, mas 2 foram fornecidos
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(110,18): message : o argumento variadic 3 ausente é requerido pela cadeia de formato '%d'
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(40,11): warning C4101: 'f': variável local não referenciada
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(318,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(319,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(527,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(573,18): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(600,12): warning C4101: 'x': variável local não referenciada
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(653,12): warning C4101: 'x': variável local não referenciada
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(696,9): warning C4101: 'foAntes': variável local não referenciada
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(992,96): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\L\Documents\UFES\untitled\pctf.cpp(999,94): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  PCTF.vcxproj -> C:\Users\L\Documents\UFES\ALNS_PROJETO\CodBase\x64\Debug\PCTF.exe
